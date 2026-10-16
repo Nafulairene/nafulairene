@@ -125,6 +125,7 @@ I don't just close tickets — I identify the patterns behind them and build sol
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 **Databases & Data**<br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -188,10 +189,10 @@ I don't just close tickets — I identify the patterns behind them and build sol
       <sub>📋 Planned</sub>
     </td>
     <td width="50%">
-      <h3>🕷️ Scraping Framework Toolkit</h3>
-      <p><code>Python</code> <code>Scrapy</code> <code>Selenium</code> <code>Puppeteer</code></p>
+      <h3>🕷️ <a href="https://github.com/Nafulairene/scrapekit"> Scraping Framework Toolkit</h3>
+      <p><code>Python</code> <code>Scrapy</code> <code>Selenium</code> <code>Puppeteer</code> <code>Playwright</code></p>
       <p>Reusable scraping templates with proxy rotation, rate limiting, and error handling — distilled from advising dozens of clients on scraping architecture.</p>
-      <sub>📋 In Progres</sub>
+      <sub>🟡 In Progress</sub>
     </td>
   </tr>
 </table>
