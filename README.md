@@ -191,7 +191,7 @@ I don't just close tickets — I identify the patterns behind them and build sol
       <h3>🕷️ Scraping Framework Toolkit</h3>
       <p><code>Python</code> <code>Scrapy</code> <code>Selenium</code> <code>Puppeteer</code></p>
       <p>Reusable scraping templates with proxy rotation, rate limiting, and error handling — distilled from advising dozens of clients on scraping architecture.</p>
-      <sub>📋 Planned</sub>
+      <sub>📋 In Progres</sub>
     </td>
   </tr>
 </table>
