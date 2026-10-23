@@ -204,7 +204,7 @@ I don't just close tickets — I identify the patterns behind them and build sol
   <td width="50%" colspan="2">
   <h3>🎯 <a href="https://github.com/nafulairene/roleradar">RoleRadar</a></h3>
   <p><code>TypeScript</code> <code>React</code></p>
-  <p>Job application tracker for managing roles from application through interview to offer, built in public while I learn TypeScript, with every step documented.</p>
+  <p>Full-stack job application tracker for managing roles from application through interview to offer. It's built with a typed React frontend, and each design decision is documented in the repo.</p>
   <ul>
     <li>Track applications by status and stage</li>
     <li>Roadmap: authentication, API integrations, webhooks</li>
